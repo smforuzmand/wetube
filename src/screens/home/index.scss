@@ -1,0 +1,29 @@
+.home-screen {
+  padding: 16px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 8px;
+  row-gap: 8px;
+}
+
+@media (min-width: 560px) {
+  .home-screen {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .home-screen {
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 16px;
+    row-gap: 16px;
+  }
+}
+
+@media (min-width: 1440px) {
+  .home-screen {
+    grid-template-columns: repeat(6, 1fr);
+    column-gap: 16px;
+    row-gap: 16px;
+  }
+}

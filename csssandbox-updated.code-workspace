@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "csssandbox-updated",
+			"path": "../HTML,Lexicon project/csssandbox-updated"
+		},
+		{
+			"name": "frontEnd",
+			"path": "E:/frontEnd"
+		},
+		{
+			"name": "hotel-website-responsive",
+			"path": "../HTML,Lexicon project/hotel-website-responsive"
+		},
+		{
+			"path": "../Edge Ledger web site"
+		},
+		{
+			"path": "../Novare assignment/wetube"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "frontEnd",
+		"git.ignoreLimitWarning": true
+	}
+}
